@@ -2,3 +2,4 @@ create
 username
 email
 phone number
+password
